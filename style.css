@@ -114,3 +114,17 @@
     cursor: pointer;
   }
 /* ---------------------------------------------------- */
+.cta{
+  border: 1px solid #000;
+  background-image: url(./img/Rectangle\ 5.png);
+  position: absolute;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.back-color{
+  background-color: #000;
+}
+.cta h2 p{
+  color: #fff;
+}
