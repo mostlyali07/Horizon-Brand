@@ -136,3 +136,12 @@
   opacity: 1;
   cursor: pointer;
 }
+
+/* -----------------------------------------footer---------------------------------- */
+
+.foot-line{
+  background-color: #fb8c00;
+}
+.footer{
+  background-color: #1b1b1b;
+}
