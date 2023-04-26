@@ -115,16 +115,21 @@
   }
 /* ---------------------------------------------------- */
 .cta{
-  border: 1px solid #000;
   background-image: url(./img/Rectangle\ 5.png);
-  position: absolute;
-  background-position: center;
-  background-repeat: no-repeat;
   background-size: cover;
 }
 .back-color{
-  background-color: #000;
+  background-color: #2b2f38;
 }
 .cta h2 p{
   color: #fff;
+}
+.img-s{
+  width: 516px;
+  transition: .5s ease;
+}
+.img-s:hover{
+  transform: scale(0.9);
+  opacity: 1;
+  cursor: pointer;
 }
