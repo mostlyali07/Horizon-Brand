@@ -113,16 +113,19 @@
     transition: opacity 0.5s ease;
     cursor: pointer;
   }
-/* ---------------------------------------------------- */
+  /* ---------------------------------------------------- */
+  .back-color{
+    background-color: #2b2f38;
+    padding: 50px;
+  }
 .cta{
   background-image: url(./img/Rectangle\ 5.png);
   background-size: cover;
-}
-.back-color{
-  background-color: #2b2f38;
+  padding: 20px;
 }
 .cta h2 p{
   color: #fff;
+  
 }
 .img-s{
   width: 516px;
