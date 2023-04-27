@@ -203,6 +203,7 @@ input:focus-visible {
 .talk-f{
   background-image: url(./img/chat.png);
   background-size: cover;
+  border-radius: 12px;
   padding: 50px;
 }
 /*////////////////////////////testi////////////////////  */
@@ -232,4 +233,32 @@ input:focus-visible {
 }
 .footer{
   background-color: #1b1b1b;
+}
+.footer-btn{
+  color: #fff;
+  font-size: 15px;
+  background-color: #f58b01;
+  border: 1px solid #f58b01;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 36px;
+  padding-right: 36px;
+}
+.footer-btn:hover{
+  transition: 0.6s;
+    color: #000000;
+    background-color: #fff;
+    border: 1px solid #fff;
+}
+.form-foot{
+  border-radius: 0px !important;
+  padding: 3px 15px !important;
+}
+
+.foot-p{
+  color: #a8a8a8;
+}
+.foot-end{
+  padding-top: 30px;
+  border-top: 1px solid #4c4c4c;
 }
