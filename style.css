@@ -21,7 +21,7 @@
   .main-banner p {
     font-size: 17px;
     font-weight: 400;
-    color: #000000;
+    color: #ffffff;
   }
   .banner-left h1 {
     color: #fff;
@@ -117,25 +117,38 @@
   .back-color{
     background-color: #2b2f38;
     padding: 50px;
+    padding-top: 70px;
+    margin-bottom: 150px;
   }
 .cta{
   background-image: url(./img/Rectangle\ 5.png);
   background-size: cover;
   padding: 20px;
+  margin-bottom: -130px;
+  border-radius: 12px;
+  -webkit-box-shadow: 0px 10px 5px 0px rgba(209,209,209,0.71);
+  -moz-box-shadow: 0px 10px 5px 0px rgba(209,209,209,0.71);
+  box-shadow: 0px 10px 15px 0px #00000061;
 }
 .cta h2 p{
   color: #fff;
-  
+}
+
+.gallery{
+  display: flex;
+
+
 }
 .img-s{
-  width: 516px;
-  transition: .5s ease;
+  width: 33.33333%;
+  transition: 0.5s ease;
 }
 .img-s:hover{
   transform: scale(0.9);
   opacity: 1;
   cursor: pointer;
 }
+
 
 /* -----------------------------------------footer---------------------------------- */
 
