@@ -42,7 +42,7 @@
   
   .btns-one:hover {
     transition: 0.6s;
-    color: #023866;
+    color: #000000;
     background-color: #fff;
     border: 1px solid #fff;
   }
@@ -60,7 +60,7 @@
   
   .btns-two:hover {
     transition: 0.6s;
-    color: #023866;
+    color: #000000;
     background-color: #fff;
     border: 1px solid #fff;
   }
@@ -78,11 +78,30 @@
     padding-left: 36px;
     padding-right: 36px;
   }
-  
+
   .btns-three:hover {
     transition: 0.6s;
     background-color: #0d0d0d;
     border: 1px solid #0d0d0d;
+  }
+
+  .btns-nine{
+    color: #fff;
+    font-size: 15px;
+    background-color: #f58b01;
+    border: 1px solid #f58b01;
+    border-radius: 4px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 36px;
+    padding-right: 36px;
+  }
+
+  .btns-nine:hover {
+    transition: 0.6s;
+    color: #000000;
+    background-color: #fff;
+    border: 1px solid #fff;
   }
   .right-side-panel h2 {
     font-weight: 600;
@@ -150,11 +169,53 @@
 }
 .video-bg{
   background-image: url(./img/video-bg.png);
+  padding-top: 70px;
+  margin-bottom: 150px;
 }
 .youtube {
-  width: 445px;
-  height: 255px;
+  width: 850px;
+  height: 478px;
+  box-shadow: 0px 10px 15px 0px #00000061;
+  margin-bottom: -130px;
+  border-radius: 12px;
 }
+
+.back-clr{
+  background-color: #2b2f38;
+  padding: 50px;
+}
+
+.f-clr{
+  background-color: #40454f !important;
+  border: 1px solid #40454f !important;
+  color: #ffffff !important;
+}
+
+.form-control:focus{
+  box-shadow: 0 0 0 0.25rem #ffffff00 !important;
+}
+input:focus-visible {
+  outline: none;
+}
+.text-clr{
+  color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* -----------------------------------------footer---------------------------------- */
 
 .foot-line{
