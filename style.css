@@ -148,8 +148,13 @@
   opacity: 1;
   cursor: pointer;
 }
-
-
+.video-bg{
+  background-image: url(./img/video-bg.png);
+}
+.youtube {
+  width: 445px;
+  height: 255px;
+}
 /* -----------------------------------------footer---------------------------------- */
 
 .foot-line{
