@@ -200,8 +200,17 @@ input:focus-visible {
 .text-clr{
   color: #fff;
 }
+.talk-f{
+  background-image: url(./img/chat.png);
+  background-size: cover;
+  padding: 50px;
+}
+/*////////////////////////////testi////////////////////  */
 
 
+
+
+/*  */
 
 
 
