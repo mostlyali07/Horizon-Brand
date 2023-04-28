@@ -14,8 +14,10 @@
   .main-banner {
     background-image: url(./img/bannerr.png);
     background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
     margin-top: -100px;
-    padding-top: 245px; 
+    padding-top: 245px;
     height: 100vh;
   }
   .main-banner p {
@@ -175,10 +177,12 @@ border: 1px solid #fff;
   color: #fff;
 }
 
+.testimonial{
+  background-color: #2b2f38
+}
+
 .gallery{
   display: flex;
-
-
 }
 .img-s{
   width: 33.33333%;
