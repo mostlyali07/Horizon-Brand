@@ -112,7 +112,29 @@
     font-size: 16px; */
     color: #000;
 }
-
+.singup-clr{
+  background: linear-gradient(#17181cb3 0%, #17181c 25%);
+  border-radius: 0px 0px 12px 12px;
+  border-top: 2px solid #ff6101;
+  margin-top: -90px !important;
+  padding: 50px 70px !important;
+}
+.text-clrr{
+  color: #fff;
+}
+.btns-signup{
+  color: #fff;
+  font-size: 15px;
+  background-color: #f58b01;
+  border: 1px solid #f58b01;
+  border-radius: 4px;
+  padding: 7px 22px;
+}
+.btns-signup:hover{transition: 0.6s;
+color: #000000;
+background-color: #fff;
+border: 1px solid #fff;
+}
 /* ---------------------------------------------------- */
 .image {
     position: relative;
