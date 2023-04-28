@@ -7,10 +7,16 @@
     color: #fff;
     text-decoration: none;
   }
+
   /* .social-icons .fa-brands {
     color: #fff;
   } */
-  
+  .s-icons{
+    color: #fff;
+    text-decoration: none;
+    border-radius: 56px;
+    border: 1px solid #fff;
+  }
   .main-banner {
     background-image: url(./img/bannerr.png);
     background-repeat: no-repeat;
