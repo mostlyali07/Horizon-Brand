@@ -180,7 +180,12 @@ border: 1px solid #fff;
 .testimonial{
   background-color: #2b2f38
 }
-
+.testi{
+  background-image: url(./img/test-shape.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
 .gallery{
   display: flex;
 }
