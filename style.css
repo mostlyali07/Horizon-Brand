@@ -17,9 +17,15 @@
   .s-icons{
     color: #fff;
     text-decoration: none;
-    border-radius: 56px;
-    border: 1px solid #fff;
+    font-size: 12px;
   }
+  .foot-icons{
+    border-radius: 18px;
+    border: 1px solid #fff;
+    padding: 2px 8px;
+  }
+
+
   .main-banner {
     background-image: url(./img/bannerr.png);
     background-repeat: no-repeat;
