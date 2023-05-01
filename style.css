@@ -7,7 +7,13 @@
     color: #fff;
     text-decoration: none;
   }
-
+  .font-h2{
+    font-weight: 600 !important;
+    font-size: 30px !important;
+  }
+  .font-p{
+    font-size: 17px;
+  }
   /* .social-icons .fa-brands {
     color: #fff;
   } */
@@ -125,6 +131,7 @@
 .right-side-panel p {
     /* font-weight: 400;
     font-size: 16px; */
+    font-size: 17px;
     color: #000;
 }
 .singup-clr{
@@ -190,7 +197,7 @@ border: 1px solid #fff;
 }
 .newsl-form p{
   color: #fff;
-  font-size: 14px;
+  font-size: 16px;
 }
 .newsl-form h2{
   color: #fff;
