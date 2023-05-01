@@ -11,6 +11,9 @@
   /* .social-icons .fa-brands {
     color: #fff;
   } */
+  .nav-logo{
+    width: 200px;
+  }
   .s-icons{
     color: #fff;
     text-decoration: none;
@@ -34,7 +37,7 @@
   .banner-left h1 {
     color: #fff;
     font-weight: 600;
-    font-size: 51px;
+    font-size: 40px;
 }
 .btns-one {
     color: #fff;
