@@ -106,16 +106,16 @@ Our book publishing services are enough to make it possible for your manuscript 
         </div>
         <div class="container col-md-12 text-center">
             <div class="image ">
-                <img src="./img/service1.png" alt="Image">
+                <img class="service-img" src="./img/service1.png" alt="Image">
             </div>
             <div class="image">
-                <img src="./img/service2.png" alt="Image">
+                <img class="service-img" src="./img/service2.png" alt="Image">
             </div>
             <div class="image">
-                <img src="./img/service3.png" alt="Image">
+                <img class="service-img" src="./img/service3.png" alt="Image">
             </div>
             <div class="image">
-                <img src="./img/service4.png" alt="Image">
+                <img class="service-img" src="./img/service4.png" alt="Image">
             </div>
             <p class="font-p">Are you ready to become a best-selling author?</p>
             <button class="btns-three" type="submit">READ MORE&nbsp;  <i class="fa-solid fa-book-open"></i></button>
@@ -299,11 +299,11 @@ Our book publishing services are enough to make it possible for your manuscript 
 <!---------------- Seventh Section Start ---------------->
 <div class="container mt-5">
     <div class="row">
-        <div class="col-md-2"></div>
-        <div class="col-md-4 text-center">
-            <img src="./img/talk.png" alt="double-book-img" class="Images-main">
+        <div class="col-md-1"></div>
+        <div class="col-md-5 text-center">
+            <img src="./img/talk.png" alt="double-book-img" class="girl-main">
         </div>
-        <div class="col-md-4 right-side-panel d-flex align-items-center">
+        <div class="col-md-5 right-side-panel d-flex align-items-center">
             <div>
                 <h2 class="font-h2">
                     TALK TO US.
@@ -321,7 +321,7 @@ Our book publishing services are enough to make it possible for your manuscript 
                 </h2>
             </div>
         </div>
-        <div class="col-md-2"></div>
+        <div class="col-md-1"></div>
     </div>
 </div>
 <div class="container py-5">

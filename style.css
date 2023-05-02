@@ -134,6 +134,9 @@
     font-size: 17px;
     color: #000;
 }
+.girl-main{
+  width: 100%;
+}
 .singup-clr{
   background: linear-gradient(#17181cb3 0%, #17181c 25%);
   border-radius: 0px 0px 12px 12px;
@@ -164,6 +167,7 @@ border: 1px solid #fff;
     position: relative;
     display: inline-block;
     margin: 10px 10px;
+    width: 30%;
   }
   
   .image:hover:after {
@@ -177,6 +181,9 @@ border: 1px solid #fff;
     opacity: 1;
     transition: opacity 0.5s ease;
     cursor: pointer;
+  }
+  .service-img{
+    width: 100%;
   }
   /* ---------------------------------------------------- */
   .back-color{
@@ -295,24 +302,6 @@ input:focus-visible {
 }
 /*////////////////////////////testi////////////////////  */
 
-
-
-
-/*  */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* -----------------------------------------footer---------------------------------- */
 
 .foot-line{
@@ -357,6 +346,12 @@ input:focus-visible {
   .main-banner p{
     font-size: 14px;
  }
+ .right-side-panel p{
+  font-size: 14px;
+ }
+ .font-p{
+  font-size: 14px;
+ }
  .btns-one{
   padding-top: 8px;
   padding-bottom: 8px;
@@ -384,16 +379,34 @@ input:focus-visible {
  .text-clrr{
   font-size: 36px;
  }
+ .font-h2{
+  font-size: 28px !important;
+ }
+ .size-h6{
+  font-size: 15px;
+ }
+ .foot-icons{
+  padding: 0px 6px;
+ }
+ .foot-p{
+  font-size: 14px;
+ }
 }
 @media screen and (min-width: 1400px) {
   .banner-left h1{
     font-size: 40px;
   }
+  .font-h2{
+    font-size: 30px !important;
+   }
 }
 @media screen and (min-width: 1600px) {
   .banner-left h1{
     font-size: 40px;
   }
+  .font-h2{
+    font-size: 30px !important;
+   }
 }
 @media screen and (min-width: 1900px) {
   .banner-left h1{

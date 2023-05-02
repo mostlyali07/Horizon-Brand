@@ -55,7 +55,7 @@
         <div class="container">
         <div class="row">
             <div class="text-clr col-md-1 py-2">
-                <h6>Follow Us</h6>
+                <h6 class="size-h6">Follow Us</h6>
             </div>
             <div class="col-md-2 py-2">
                 <a class="foot-icons"><i class="fa-brands fa-facebook s-icons"></i></a>
