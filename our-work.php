@@ -2,101 +2,14 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <link rel="icon" href="./favicon.png" type="image/x-icon" />
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">    
+<?php include "./includes/head.php"?>   
     <title>Horizon Publishing</title>
 </head>
 
 <body>
-    <header id="header">
-        <nav class="navbar navbar-expand-lg bg-body-tertiary">
-            <div class="container">
-                <a class="navbar-brand" href="/">
-                    <img src="./img/logo.png" alt="Horizon Publishing" class="nav-logo">
-                </a>
-                <a class="nav-icon" href="/">
-                    <img src="./img/nav-icon.png" alt="Horizon Publishing" >
-                </a>
-
-
-
-                <!-- <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
-                    data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
-                    aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div id="navbarSupportedContent" class="collapse navbar-collapse"> -->
-                    <!-- <ul class="navbar-nav ms-auto mb-2 mb-lg-0 my-menu">
-                        <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="/">Home</a>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                All Services
-                            </a>
-                            <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="/app-development-services">App Development</a></li>
-                                <li><a class="dropdown-item" href="/seo-services">Search Engine Optimization</a></li>
-                                <li><a class="dropdown-item" href="/google-ads-management-services">Google Ads Management</a></li>
-                                <li><a class="dropdown-item" href="/social-media-services">Social Media marketing</a></li>
-                                <li><a class="dropdown-item" href="/website-design-development-services">Website Design & Development</a></li>
-                            </ul>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="/testimonials">Testimonials</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="/about-us">About Us</a>
-                        </li>
-    
-                        <li class="nav-item">
-                            <a class="nav-link" href="/contact-us">Contact Us</a>
-                        </li>
-    
-                        <li class="nav-item">
-                            <button class="btns-one" type="submit">Analyze My Site</button>
-                        </li>
-                    </ul> -->
-
-                <!-- </div> -->
-
-            </div>
-
-        </nav>
-
-    </header>
+<?php include "./includes/header.php"?>
     <!---------------- First Section Start ---------------->
-    <div class="main-banner">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6 banner-left d-flex align-items-center">
-                    <div>
-                        <h1> 
-                            <span style="color: #f58b01;"> Our Work</span>
-                        </h1>
-                        <p>
-                            Successful book marketing takes time, effort, and dedication. By utilizing a variety of marketing strategies and consistent effort, we can increase your book's visibility and reach the horizon of success.
-                        </p>
-                        <button class="btns-one" type="submit"><i class="fa-solid fa-cube"></i>&nbsp; Call Us
-                            Now</button>&nbsp;&nbsp;
-                        <button class="btns-two" type="submit"><i class="fa-solid fa-file-signature"></i>&nbsp;
-                            Chat Now</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
+    <?php include "./includes/banner.php"?>
     <!---------------- First Section End ---------------->
 
     <!---------------- Second Section Start ---------------->

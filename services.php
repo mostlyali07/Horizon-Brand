@@ -1,58 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <link rel="icon" href="./favicon.png" type="image/x-icon" />
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">    
+<?php include "./includes/head.php"?>  
     <title>Horizon Publishing</title>
 </head>
 
 <body>
-    <header id="header">
-        <nav class="navbar navbar-expand-lg bg-body-tertiary">
-            <div class="container">
-                <a class="navbar-brand" href="/">
-                    <img src="./img/logo.png" alt="Horizon Publishing" class="nav-logo">
-                </a>
-                <a class="nav-icon" href="/">
-                    <img src="./img/nav-icon.png" alt="Horizon Publishing" >
-                </a>
-
-            </div>
-
-        </nav>
-
-    </header>
+<?php include "./includes/header.php"?>
     <!---------------- First Section Start ---------------->
-    <div class="main-banner">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6 banner-left d-flex align-items-center">
-                    <div>
-                        <h1> 
-                            <span style="color: #f58b01;"> Services</span> 
-                        </h1>
-                        <p>
-                            Successful book marketing takes time, effort, and dedication. By utilizing a variety of marketing strategies and consistent effort, we can increase your book's visibility and reach the horizon of success.
-                        </p>
-                        <button class="btns-one" type="submit"><i class="fa-solid fa-cube"></i>&nbsp; Call Us
-                            Now</button>&nbsp;&nbsp;
-                        <button class="btns-two" type="submit"><i class="fa-solid fa-file-signature"></i>&nbsp;
-                            Chat Now</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+    <?php include "./includes/banner.php"?>
 
     <!---------------- First Section End ---------------->
 

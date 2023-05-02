@@ -39,6 +39,15 @@
     padding-top: 245px;
     height: 100vh;
   }
+  .main-bannerr{
+    background-image: url(./img/banner.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-top: -100px;
+    padding-top: 245px;
+    height: 100vh;
+  }
   .main-banner p {
     font-size: 17px;
     font-weight: 400;

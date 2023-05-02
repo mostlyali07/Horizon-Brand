@@ -9,26 +9,7 @@
 <body>
 <?php include "./includes/header.php"?>
     <!---------------- First Section Start ---------------->
-    <div class="main-banner">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6 banner-left d-flex align-items-center">
-                    <div>
-                        <h1> 
-                            <span style="color: #f58b01;"> Contact</span>
-                        </h1>
-                        <p>
-                            Successful book marketing takes time, effort, and dedication. By utilizing a variety of marketing strategies and consistent effort, we can increase your book's visibility and reach the horizon of success.
-                        </p>
-                        <button class="btns-one" type="submit"><i class="fa-solid fa-cube"></i>&nbsp; Call Us
-                            Now</button>&nbsp;&nbsp;
-                        <button class="btns-two" type="submit"><i class="fa-solid fa-file-signature"></i>&nbsp;
-                            Chat Now</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+    <?php include "./includes/banner.php"?>
 
     <!---------------- First Section End ---------------->
     <div class="container py-5">
