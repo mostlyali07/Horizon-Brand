@@ -39,6 +39,11 @@
     padding-top: 245px;
     height: 100vh;
   }
+  .main-banner p {
+    font-size: 17px;
+    font-weight: 400;
+    color: #ffffff;
+  }
   .main-bannerr{
     background-image: url(./img/banner.png);
     background-repeat: no-repeat;
@@ -48,8 +53,8 @@
     padding-top: 245px;
     height: 100vh;
   }
-  .main-banner p {
-    font-size: 17px;
+  .main-bannerr p {
+    font-size: 14px;
     font-weight: 400;
     color: #ffffff;
   }
@@ -347,6 +352,49 @@ input:focus-visible {
   padding-top: 30px;
   border-top: 1px solid #4c4c4c;
 }
+/*---------------------------- Contactus page---------------------- */
+.div-clr{
+  background-color: #2b2f38;
+}
+.cont-divs i {
+  font-size: 34px;
+  height: 100px;
+  background: #f58b01;
+  color: #fff;
+  width: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 100%;
+  box-shadow: -2px 2px 15px -9px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: -2px 2px 15px -9px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -2px 2px 15px -9px rgba(0, 0, 0, 0.75);
+  margin: 20px auto;
+}
+.cont-divs:hover i {
+  background-image: linear-gradient(90deg, #f58b01, #1b1b1b);
+  color: #000;
+  transition: 0.3s;
+  cursor: pointer;
+}
+.cont-divs h6 {
+  color: #fff;
+}
+.cont-divs a {
+  color: #646d7c;
+  font-size: 14px;
+  text-decoration: none;
+}
+.cont-divs a:hover {
+  color: #646d7c;
+  text-decoration: none;
+}
+.maps iframe {
+  width: 100%;
+  height: 450px;
+}
+/*---------------------------- Contactus page---------------------- */
+
 /*---------------------------- Media Query------------------------------- */
 @media screen and (min-width: 1200px) {
   .banner-left h1{
@@ -412,6 +460,9 @@ input:focus-visible {
     font-size: 17px;
    }
    .font-p{
+    font-size: 17px;
+   }
+   .main-bannerr p{
     font-size: 17px;
    }
 }

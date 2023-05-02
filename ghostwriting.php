@@ -1,35 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-    <?php include "./includes/head.php"?>  
+<?php include "./includes/head.php"?>  
     <title>Horizon Publishing</title>
 </head>
 
 <body>
 <?php include "./includes/header.php"?>
     <!---------------- First Section Start ---------------->
-    <div class="main-banner">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6 banner-left d-flex align-items-center">
-                    <div>
-                        <h1> 
-                            <span style="color: #f58b01;"> BOOK PROMOTION</span> TO REACH THE  
-                            <span style="color: #f58b01;">HORIZON</span><br>  WITH OUR BOOK<span style="color: #f58b01;"> MARKETING SERVICES.</span>
-                        </h1>
-                        <p>
-                            Successful book marketing takes time, effort, and dedication. By utilizing a variety of marketing strategies and consistent effort, we can increase your book's visibility and reach the horizon of success.
-                        </p>
-                        <button class="btns-one" type="submit"><i class="fa-solid fa-cube"></i>&nbsp; Call Us
-                            Now</button>&nbsp;&nbsp;
-                        <button class="btns-two" type="submit"><i class="fa-solid fa-file-signature"></i>&nbsp;
-                            Chat Now</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+    <?php include "./includes/banner.php"?>
 
     <!---------------- First Section End ---------------->
 
@@ -75,9 +54,6 @@
         </div>
     <div class="container py-5">
         <div class="row">
-            <div class="col-md-6 text-center">
-                <img src="./img/double-book.png" alt="double-book-img" class="Images-main">
-            </div>
             <div class="col-md-6 right-side-panel d-flex align-items-center">
                 <div>
                     <h2 class="font-h2">
@@ -92,10 +68,12 @@ Our book publishing services are enough to make it possible for your manuscript 
                 </div>
 
             </div>
-
+            <div class="col-md-6 text-center">
+                <img src="./img/double-book.png" alt="double-book-img" class="Images-main">
+            </div>
         </div>
     </div>
-    <div class="container my-5">
+    <!-- <div class="container my-5">
         <div class="row ">
             <div class="col-md-12 text-center">
                 <h2 class="font-h2">FROM MANUSCRIPT TO BEST SELLER</h2>
@@ -106,21 +84,21 @@ Our book publishing services are enough to make it possible for your manuscript 
         </div>
         <div class="container col-md-12 text-center">
             <div class="image ">
-                <img class="service-img" src="./img/service1.png" alt="Image">
+                <img src="./img/service1.png" alt="Image">
             </div>
             <div class="image">
-                <img class="service-img" src="./img/service2.png" alt="Image">
+                <img src="./img/service2.png" alt="Image">
             </div>
             <div class="image">
-                <img class="service-img" src="./img/service3.png" alt="Image">
+                <img src="./img/service3.png" alt="Image">
             </div>
-            <div class="image col-md-11">
-                <img class="service-img" src="./img/service4.png" alt="Image">
+            <div class="image">
+                <img src="./img/service4.png" alt="Image">
             </div>
             <p class="font-p">Are you ready to become a best-selling author?</p>
             <button class="btns-three" type="submit">READ MORE&nbsp;  <i class="fa-solid fa-book-open"></i></button>
         </div>
-    </div>
+    </div> -->
     <!---------------- Second Section End ---------------->
 
     <!---------------- Third Section Start ---------------->
@@ -170,7 +148,7 @@ Our book publishing services are enough to make it possible for your manuscript 
     </div>
     <!---------------- Third Section End ---------------->
     <!---------------- Fourth Section Start ---------------->
-    <div class="gallery-main">
+    <!-- <div class="gallery-main">
         <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
@@ -197,11 +175,11 @@ Our book publishing services are enough to make it possible for your manuscript 
                 social media campaigns, bmk signings and other promoti onal activities.</p>
             <button class="btns-three" type="submit">VIEW MORE&nbsp;  <i class="fa-solid fa-book-open"></i></button>
         </div>
-    </div>
+    </div> -->
     <!---------------- Fourth Section End ---------------->
 
     <!---------------- Fifth Section End ---------------->
-    <div class="video-bg">
+    <!-- <div class="video-bg">
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text-center ">
@@ -215,13 +193,13 @@ Our book publishing services are enough to make it possible for your manuscript 
                 </div>
             </div>
         </div>
-    </div>
-    <div class="container text-center p-3">
+    </div> -->
+    <!-- <div class="container text-center p-3">
         <p class="font-p">
             Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been<br>
             the industry's standard dummy text ever since the 1500s.</p>
         <button class="btns-three" type="submit">VIEW MORE&nbsp;  <i class="fa-solid fa-book-open"></i></button>
-    </div>
+    </div> -->
     <div class="container py-5">
         <div class="row">
             <div class="col-md-6 text-center">
@@ -307,6 +285,6 @@ Our book publishing services are enough to make it possible for your manuscript 
 <!---------------- Eighth Section End ---------------->
 
     <!---------------- Footer Section Start ---------------->
-    <?php include "./includes/footer.php" ?>
+    <?php include "./includes/footer.php"?> 
 </body>
 </html>

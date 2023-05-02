@@ -1,3 +1,56 @@
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-md-1"></div>
+        <div class="col-md-5 text-center">
+            <img src="./img/talk.png" alt="double-book-img" class="girl-main">
+        </div>
+        <div class="col-md-5 right-side-panel d-flex align-items-center">
+            <div>
+                <h2 class="font-h2">
+                    TALK TO US.
+                </h2>
+                <p>
+                    Our specialized consultants would love to
+                    advise an optimal publishing & ntarketing
+                    campaign of your book.
+                </p><br><br /><br><br />
+                <h2 style="color: #f58b01;">
+                    8447270033
+                </h2>
+                <h2 style="color: #f58b01;">
+                    Free design consultation
+                </h2>
+            </div>
+        </div>
+        <div class="col-md-1"></div>
+    </div>
+</div>
+<div class="container py-5">
+    <div class="row">
+        <div class="col-md-1">
+        </div>
+        <div class="col-md-10 talk-f">
+            <div class="row">
+                <div class="col-md-8 px-5">
+                    <h2 class="font-h2">
+                        Book Publishing or Book Marketing?
+                    </h2>
+                    <p class="font-p">
+                        Chat with a specialist now for a free consult.
+                    </p>
+                </div>
+                <div class="col-md-4 text-center">
+
+                    <button class="btns-three" type="submit">VIEW PLANS &nbsp;  <i class="fa-solid fa-book-open"></i></button>
+                </div>
+                <div class="col-md-2"></div>
+            </div>     
+        </div>
+        <div class="col-md-1">
+        </div>
+    </div>
+</div>
+
 <div class="back-clr">
 <div class="container ">
     <div class="row">

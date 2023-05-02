@@ -1,7 +1,7 @@
 <div class="main-bannerr">
         <div class="container">
             <div class="row">
-                <div class="col-md-6 banner-left d-flex align-items-center">
+                <div class="col-md-12 banner-left d-flex align-items-center text-center">
                     <div>
                         <h1> 
                             <span style="color: #f58b01;"> BOOK PROMOTION</span> TO REACH THE  

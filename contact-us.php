@@ -9,32 +9,113 @@
 <body>
 <?php include "./includes/header.php"?>
     <!---------------- First Section Start ---------------->
-    <?php include "./includes/banner.php"?>
-
-    <!---------------- First Section End ---------------->
-    <div class="container py-5">
-        <div class="row">
-            <div class="col-md-6 text-center">
-                <img src="./img/double-book.png" alt="double-book-img" class="Images-main">
-            </div>
-            <div class="col-md-6 right-side-panel d-flex align-items-center">
-                <div>
-                    <h2 class="font-h2">
-                        STEP INTO A WORLD OF<br> POSSIBILITY WITH OUR BOOK<br> PUBLISHING SERVICES.
-                    </h2>
-                    <p>
-Our book publishing services are enough to make it possible for your manuscript to become a published & even a best seller book. Collaborate with our book publishing specialists for an optimal book publishing plan tailored for your book.
-                    </p>
-
-                    <button class="btns-three" type="submit">READ MORE&nbsp;  <i class="fa-solid fa-book-open"></i></button>
-
+    <div class="main-bannerr">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-2"></div>
+                <div class="col-md-8 banner-left d-flex align-items-center text-center">
+                    <div>
+                        <h1> 
+                            <span style="color: #f58b01;"> Contac Us</span> 
+                           
+                        </h1>
+                        <p>
+                            Successful book marketing takes time, effort, and dedication. By utilizing a variety of marketing strategies and consistent effort, we can increase your book's visibility and reach the horizon of success.
+                        </p>
+                        <button class="btns-one" type="submit"><i class="fa-solid fa-cube"></i>&nbsp; Call Us
+                            Now</button>&nbsp;&nbsp;
+                        <button class="btns-two" type="submit"><i class="fa-solid fa-file-signature"></i>&nbsp;
+                            Chat Now</button>
+                    </div>
                 </div>
-
+                <div class="col-md-2"></div>
             </div>
-
         </div>
     </div>
 
+    <!---------------- First Section End ---------------->
+    <div class="container py-5 my-5">
+        <div class="row">
+            <div class="col-md-6">
+                <form class="row g-3">
+                    <div class="col-md-6">
+                        <label for="your-name" class="form-label">Your Name</label>
+                        <input type="text" class="form-control" id="your-name" placeholder="John Doe" required>
+                    </div>
+                    <div class="col-md-6">
+                        <label for="your-email" class="form-label">Your Email</label>
+                        <input type="email" class="form-control" id="your-email" placeholder="john45@example.com" required>
+                    </div>
+                    <div class="col-6">
+                        <label for="phone-number" class="form-label">Phone Number</label>
+                        <input type="number" class="form-control" id="phone-number" placeholder="+123 4567 890" required>
+                    </div>
+                    <div class="col-6">
+                        <label for="website-url" class="form-label">Website URL</label>
+                        <input type="text" class="form-control" id="website-url" placeholder="www.example.com">
+                    </div>
+                    <div class="col-md-12">
+                        <label for="services" class="form-label">Services</label>
+                        <select id="services" class="form-select" required>
+                            <option disabled value selected>Please Select a Service</option>
+                            <option>Search Engine Optimization (SEO)</option>
+                            <option>Google Ads Management</option>
+                            <option>Social Media Marketing</option>
+                            <option>Website Design & Development</option>
+                        </select>
+                    </div>
+                    <div class="col-md-12">
+                        <label for="message" class="form-label">Message</label>
+                        <textarea class="form-control" id="message" rows="3"></textarea>
+                    </div>
+                    <div class="col-12">
+                        <button type="submit" class="btns-nine">SEND MESSAGE</button>
+                    </div>
+                </form>
+            </div>
+            <div class="col-md-6">
+                <div class="maps">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d759.1515829954502!2d-79.99130175700542!3d40.43971653679224!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8834f159448327f3%3A0xe55122d29ec5ddd8!2sSouthwestern%20Pennsylvania%20Commission!5e0!3m2!1sen!2s!4v1681819660415!5m2!1sen!2s" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<div class="div-clr">
+    <div class="container py-5">
+        <div class="row">
+            <div class="col-md-3 text-center">
+                <div class="cont-divs">
+                    <i class="fa-solid fa-location-dot"></i>
+                    <h6 class="fw-bold">Mailing Address</h6>
+                    <a href="">445 S. Figueroa Street, 31st Floor, <br> Los Angeles, CA 90071</a>
+                </div>
+            </div>
+            <div class="col-md-3 text-center">
+                <div class="cont-divs">
+                    <i class="fa-solid fa-envelope"></i>
+                    <h6 class="fw-bold">Mail</h6>
+                    <a href="mailto:">admin@gmail.com</a>
+                </div>
+            </div>
+            <div class="col-md-3 text-center">
+                <div class="cont-divs">
+                    <i class="fa-regular fa-clock"></i>
+                    <h6 class="fw-bold">Office Hours</h6>
+                    <a href="">Week Days: 10:00 – 22:00 <br>
+                        Sunday: Close</a>
+                </div>
+            </div>
+            <div class="col-md-3 text-center">
+                <div class="cont-divs">
+                    <i class="fa-solid fa-phone"></i>
+                    <h6 class="fw-bold">Phone</h6>
+                    <a href="tel:1234567890">+123-4567-890</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
     <!---------------- Second Section Start ---------------->
         <!-- <div class="container ">
             <div class="row">
