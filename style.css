@@ -26,7 +26,7 @@
     font-size: 12px;
   }
 /*------------------------------ navigation------------------------------ */
-.navbar {
+/* .navbar {
   width: 250px;
   height: 100vh;
   position: fixed;
@@ -80,7 +80,7 @@
 
 #menu-btn:focus {
   box-shadow: 0 0 0 0.25rem #7952b344;
-}
+} */
 /*------------------------------ navigation------------------------------ */
 
 
