@@ -227,48 +227,7 @@ Our book publishing services are enough to make it possible for your manuscript 
     <!---------------- Fifth Section End ---------------->
 
 <!---------------- Sixth Section Start ---------------->
-<div class="testimonial">
-<div class="container py-3 testimonial">
-    <div class="row">
-        <div class="col-md-12">
-            <div class="owl-seven owl-carousel owl-theme">
-                <div class="item testi">
-                    <img src="./img/bset-seller.png" class="widr">
-                    <h5 class="testi-slid">Our Comprehensive Services Include</h5>
-                </div>
-                <div class="item testi">
-                    <img src="./img/bset-seller.png" class="widr">
-                    <h5 class="testi-slid">Our Comprehensive Services Include</h5>
-                </div>
-                <div class="item testi">
-                    <img src="./img/bset-seller.png" class="widr">
-                    <h5 class="testi-slid">Our Comprehensive Services Include</h5>
-                </div>
-                <div class="item testi">
-                    <img src="./img/bset-seller.png" class="widr">
-                    <h5 class="testi-slid">Our Comprehensive Services Include</h5>
-                </div>
-                <div class="item testi">
-                    <img src="./img/bset-seller.png" class="widr">
-                    <h5 class="testi-slid">Our Comprehensive Services Include</h5>
-                </div>
-                <div class="item testi">
-                    <img src="./img/bset-seller.png" class="widr">
-                    <h5 class="testi-slid">Our Comprehensive Services Include</h5>
-                </div>
-                <div class="item testi">
-                    <img src="./img/bset-seller.png" class="widr">
-                    <h5 class="testi-slid">Our Comprehensive Services Include</h5>
-                </div>
-                <div class="item testi">
-                    <img src="./img/bset-seller.png" class="widr">
-                    <h5 class="testi-slid">Our Comprehensive Services Include</h5>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-</div>
+<?php include "./includes/carousel.php"?>
 
 
 <!---------------- Sixth Section End ----------------> 
