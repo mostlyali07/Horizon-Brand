@@ -206,7 +206,7 @@
             loop: true,
             nav: true,
             margin: 20,
-            autoplay: true,
+            autoplay: false,
             autoplayTimeout: 5000,
             responsive: {
                 0: {
