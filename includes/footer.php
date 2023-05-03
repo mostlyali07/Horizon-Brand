@@ -206,7 +206,7 @@
             loop: true,
             nav: true,
             margin: 20,
-            autoplay: false,
+            autoplay: true,
             autoplayTimeout: 5000,
             responsive: {
                 0: {
@@ -219,7 +219,7 @@
                     items: 4
                 },
                 992: {
-                    items: 5
+                    items: 4
                 }
             },
             dots: false
