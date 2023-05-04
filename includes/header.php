@@ -4,9 +4,9 @@
                 <a class="navbar-brand" href="/">
                     <img src="./img/logo.png" alt="Horizon Publishing" class="nav-logo">
                 </a>
-                <a class="nav-icon" href="/">
+                <!-- <a class="nav-icon" href="/">
                     <img src="./img/nav-icon.png" alt="Horizon Publishing" >
-                </a> 
+                </a>  -->
 <!-- <nav class="navbar navbar-expand d-flex flex-column align-item-start" id="sidebar">
         <a href="#" class="navbar-brand text-light mt-5">
             <div class="display-5 font-weight-bold">THANOS</div>
@@ -78,13 +78,13 @@
         </ul>
     </nav> -->
 
-                <!-- <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                     aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                <div id="navbarSupportedContent" class="collapse navbar-collapse"> -->
-                    <!-- <ul class="navbar-nav ms-auto mb-2 mb-lg-0 my-menu">
+                <div id="navbarSupportedContent" class="collapse navbar-collapse"> 
+                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0 my-menu">
                         <li class="nav-item">
                             <a class="nav-link active" aria-current="page" href="/">Home</a>
                         </li>
@@ -93,11 +93,18 @@
                                 All Services
                             </a>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="/app-development-services">App Development</a></li>
-                                <li><a class="dropdown-item" href="/seo-services">Search Engine Optimization</a></li>
-                                <li><a class="dropdown-item" href="/google-ads-management-services">Google Ads Management</a></li>
-                                <li><a class="dropdown-item" href="/social-media-services">Social Media marketing</a></li>
-                                <li><a class="dropdown-item" href="/website-design-development-services">Website Design & Development</a></li>
+                                <li><a class="dropdown-item" href="/git/ghostwriting.php">Ghostwriting</a></li>
+                                <li><a class="dropdown-item" href="/git/book-proposals-&-synopsis.php">Book Proposals & Synopsis</a></li>
+                                <li><a class="dropdown-item" href="/git/book-editing.php">Book Editing</a></li>
+                                <li><a class="dropdown-item" href="/git/amazon-book-publishing.php">Amazon Book Publishing</a></li>
+                                <li><a class="dropdown-item" href="/git/book-publishing-&-distribution.php">Book Publishing & Distribution</a></li>
+                                <li><a class="dropdown-item" href="/git/book-cover-design.php">Book Cover Design</a></li>
+                                <li><a class="dropdown-item" href="/git/custom-illustration-design-services.php">Custom Illustration Design Services</a></li>
+                                <li><a class="dropdown-item" href="/git/cultural-accuracy-reading.php">Cultural Accuracy Reading</a></li>
+                                <li><a class="dropdown-item" href="/git/book-marketing-&-promotion.php">Book Marketing & Promotion</a></li>
+                                <li><a class="dropdown-item" href="/git/author-book-promotion.php">Author Book Promotion</a></li>
+                                <li><a class="dropdown-item" href="/git/author-website-&-promotion.php">Author Website & Promotion</a></li>
+                                <li><a class="dropdown-item" href="/git/beta-reader-review.php">Beta Reader Review</a></li>
                             </ul>
                         </li>
                         <li class="nav-item">
@@ -110,16 +117,11 @@
                         <li class="nav-item">
                             <a class="nav-link" href="/contact-us">Contact Us</a>
                         </li>
-    
-                        <li class="nav-item">
-                            <button class="btns-one" type="submit">Analyze My Site</button>
-                        </li>
-                    </ul> -->
-
-                <!-- </div> -->
-
+                    </ul> 
+             </div>
             </div>
-
         </nav>
+
+
 
     </header>
