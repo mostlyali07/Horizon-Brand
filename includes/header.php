@@ -11,7 +11,7 @@
                 </a>
         <ul class="navbar-nav d-flex flex-column mt-5 w-100">
           <li class="nav-item w-100">
-            <a href="#" class="nav-link text-light pl-4">Home</a>
+            <a href="http://localhost/git/" class="nav-link text-light pl-4">Home</a>
           </li>
           <li class="nav-item dropdown w-100">
               <a
@@ -39,10 +39,10 @@
                 </ul>
             </li>
             <li class="nav-item w-100">
-              <a href="#" class="nav-link text-light pl-4">Our Work</a>
+              <a href="/git/our-work.php" class="nav-link text-light pl-4">Our Work</a>
             </li>
           <li class="nav-item w-100">
-            <a href="#" class="nav-link text-light pl-4">Contact</a>
+            <a href="/git/contact-us.php" class="nav-link text-light pl-4">Contact</a>
           </li>
         </ul>
       </nav>
