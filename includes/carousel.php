@@ -10,7 +10,7 @@
             </h2>
             <div class="owl-seven owl-carousel owl-theme">
                 <div class="item testi">
-                    <img src="./img/google-business.jpg" class="widr">
+                    <img src="./img/google-business.png" class="widr">
                     <h5 class="testi-slid">Google Business</h5>
                 </div>
                 <div class="item testi">
@@ -30,15 +30,15 @@
                     <h5 class="testi-slid">Tik-Tok</h5>
                 </div>
                 <div class="item testi">
-                    <img src="./img/website-seo.jpg" class="widr">
+                    <img src="./img/website-seo.png" class="widr">
                     <h5 class="testi-slid">Website SEO</h5>
                 </div>
                 <div class="item testi">
-                    <img src="./img/website-ppc.jpg" class="widr">
+                    <img src="./img/website-ppc.png" class="widr">
                     <h5 class="testi-slid">Website PPC</h5>
                 </div>
                 <div class="item testi">
-                    <img src="./img/paid-social-media-marketing.jpg" class="widr">
+                    <img src="./img/paid-social-media-marketing.png" class="widr">
                     <h5 class="testi-slid">Paid Social Media Marketing</h5>
                 </div>
                 <div class="item testi">

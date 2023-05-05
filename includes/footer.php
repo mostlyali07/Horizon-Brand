@@ -208,7 +208,7 @@
                 items: 6,
             loop: true,
             nav: true,
-            margin: 20,
+            margin: 30,
             autoplay: true,
             autoplayTimeout: 5000,
             responsive: {
