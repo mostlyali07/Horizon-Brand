@@ -42,7 +42,7 @@
               <a href="/git/our-work.php" class="nav-link text-light pl-4">Our Work</a>
             </li>
           <li class="nav-item w-100">
-            <a href="/git/contact-us.php" class="nav-link text-light pl-4">Contact</a>
+            <a href="/git/contact.php" class="nav-link text-light pl-4">Contact</a>
           </li>
         </ul>
       </nav>

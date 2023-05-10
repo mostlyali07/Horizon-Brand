@@ -217,10 +217,11 @@ Our book publishing services are enough to make it possible for your manuscript 
         </div>
     </div>
     <div class="container text-center p-3">
+    <h2 class="font-h2">VIDEO TRAILERS</h2>
         <p class="font-p">
             Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been<br>
             the industry's standard dummy text ever since the 1500s.</p>
-        <button class="btns-three" type="submit">VIEW MORE&nbsp;  <i class="fa-solid fa-book-open"></i></button>
+        <!-- <button class="btns-three" type="submit">VIEW MORE&nbsp;  <i class="fa-solid fa-book-open"></i></button> -->
     </div>
     <div class="container py-5">
         <div class="row">
