@@ -6,12 +6,12 @@
         class="navbar navbar-expand d-flex flex-column align-item-start"
         id="sidebar"
       >
-      <a class="navbar-brand" href="/">
+      <a class="navbar-brand" href="http://localhost/git/">
                     <img src="./img/logo.png" alt="Horizon Publishing" class="nav-logo">
                 </a>
         <ul class="navbar-nav d-flex flex-column mt-5 w-100">
           <li class="nav-item w-100">
-            <a href="https://demo.webnseoproviders.com/horizonpublishing/" class="nav-link text-light pl-4">Home</a>
+            <a href="http://localhost/git/" class="nav-link text-light pl-4">Home</a>
           </li>
           <li class="nav-item dropdown w-100">
               <a
@@ -49,7 +49,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-6 d-flex align-items-center">
-          <a class="navbar-brand" href="/">
+          <a class="navbar-brand" href="http://localhost/git/">
                     <img src="./img/logo.png" alt="Horizon Publishing" class="nav-logo">
                 </a>
 
