@@ -66,7 +66,7 @@
                         </div>
 
                         <div class="col-2 text-end">
-                            <button type="submit" class="btns-signup">Submit</button>
+                            <button type="submit" class="btns-signup">SUBMIT</button>
                         </div>
                     </form>
                 </div>
