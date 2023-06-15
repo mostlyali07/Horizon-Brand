@@ -15,7 +15,7 @@
                 <div class="col-md-6 banner-left d-flex align-items-center">
                     <div>
                         <h1> 
-                            <span style="color: #f58b01;"> BOOK PROMOTION</span> TO REACH THE  
+                            <span style="color: #f58b01;"> BOOK PROMOTION</span> TO REACH THE MAXIMUM 
                             <span style="color: #f58b01;">HORIZON</span><br>  WITH OUR BOOK<span style="color: #f58b01;"> MARKETING SERVICES.</span>
                         </h1>
                         <p>
