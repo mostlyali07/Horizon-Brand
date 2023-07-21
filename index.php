@@ -114,7 +114,7 @@
             <div class="image">
                 <img class="service-img" src="./img/service3.png" alt="Image">
             </div>
-            <div class="image col-md-11">
+            <div class="image col-md-12">
                 <img class="service-img" src="./img/service4.png" alt="Image">
             </div>
             <p class="font-p">Are you ready to become a best-selling author?</p>
